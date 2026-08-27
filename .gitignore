@@ -6,6 +6,7 @@ build_test/
 *.bin
 *.hex
 *.map
+temp_auto_push.bat
 build-*/
 dist/
 node_modules/
@@ -15,3 +16,5 @@ __pycache__/
 target/
 .pytest_cache/
 .DS_Store
+.gitignore
+branch_structure.json
